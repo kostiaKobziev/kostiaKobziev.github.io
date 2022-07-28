@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "Bask_semi";
+    src: url("../fonts/MBaskerville-SemiBold.otf");
+	font-style: normal;
+	display: swap;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Bask_semi_italic";
+    src: url("../fonts/MBaskerville-SemiBoldItalic.otf");
+	font-style: normal;
+	display: swap;
+	font-weight: normal;
+}
